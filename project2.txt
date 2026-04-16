@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 second file
 wazsxdfcgvhbjnkmjnhbgvfcdcgvhbjhgvfcdxfcgvhbgvfcdxfc
 xdcfvbhnbvcvbnbvc
+=======
+make changes on the second branch
+make changes on the second branch
+make changes on the second branch
+>>>>>>> umar
